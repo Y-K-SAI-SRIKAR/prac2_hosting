@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   server:{port:8510},
-  base:'/practice_hostings/'
+  base:'/practice_hostings'
 })
